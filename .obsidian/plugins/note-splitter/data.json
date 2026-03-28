@@ -1,0 +1,8 @@
+{
+  "saveFolderPath": "note-splitter",
+  "useContentAsTitle": false,
+  "delimiter": "\\n",
+  "removeDelimiter": true,
+  "appendToSplitContent": "",
+  "deleteOriginalNote": true
+}
