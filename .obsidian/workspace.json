@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "7dcfb5f9d8c6696d",
+            "id": "c25e1d5fd52b5fbb",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -197,8 +197,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7dcfb5f9d8c6696d",
+  "active": "944271fa21982fd8",
   "lastOpenFiles": [
+    "Tags",
     "New Text Document.txt",
     "N.O.S.T Division/N.O.S.T Entities and Anomalies/Z-905-R Arcadians/Z-905-R-2 Akira Sakurai.md",
     "N.O.S.T Division/N.O.S.T Entities and Anomalies/Z-905-R Arcadians/Z-905-R-1 Shu Sakurai.md",
@@ -233,7 +234,6 @@
     "Event Logs/N.O.S.T Event Logs/Arcadia",
     "Event Logs/C.O.R.E Event Logs",
     "Event Logs/N.O.S.T Event Logs",
-    "Linda's Journals",
-    "Event Logs"
+    "Linda's Journals"
   ]
 }
