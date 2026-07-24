@@ -58,7 +58,7 @@ Z-2256’s body appears **partially phased**, fluctuating between solid and inta
 
 ### **ORIGIN (THEORETICAL)**
 
-Z-2256 is believed to be the lingering spirit of **█████████████**, a 23-year-old Kyoto resident deceased in 2012 during a unresolved murder that remains a mystery even till today.
+Z-2256 is believed to be the lingering spirit of **██████ ███████**, a 23-year-old Kyoto resident deceased in 2012 during a unresolved murder that remains a mystery even till today.
 
 Verification remains inconclusive; however, behavioral patterns and emotional responses strongly support this hypothesis.
 

@@ -1,6 +1,3 @@
----
-sticker: ""
----
 
 
 **APERTURE INDUSTRIES  

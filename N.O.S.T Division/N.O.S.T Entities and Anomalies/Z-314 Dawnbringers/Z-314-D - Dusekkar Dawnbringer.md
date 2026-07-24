@@ -1,168 +1,156 @@
-**APERTURE INDUSTRIES  
+APERTURE INDUSTRIES  
 N.O.S.T DIVISION — ENTITY DOCUMENT  
-Classification: Internal / ABSOLUTE CLEARANCE**
+Classification: Internal / HIGH CLEARANCE
 
 ---
-
-## **ENTITY CLASSIFICATION**
 
 **Entity ID:** Z-314-D  
 **Designation Name:** Dusekkar Dawnbringer  
-**Entity Type:** Dawnbringer (Extended Lineage)  
-**Relation to Z-314-C / Z-314-S / Z-314-ST:** Confirmed Aunt  
-**Relation to Cinder:** Stepmother  
-**Origin Realm:** Z-556 (Starlands)
+**Classification:** Z-314 (Dawnbringers)  
+**Origin:** Z-556 (Starlands)
 
 ---
 
-## **GENERAL OVERVIEW**
-
-Z-314-D, known as Dusekkar Dawnbringer, is a high-tier Starladian entity recognized as a confirmed familial relation to multiple Dawnbringers.
+Z-314-D, known as **Dusekkar Dawnbringer**, is a confirmed member of the Dawnbringer class and a direct relative within the Z-314 lineage.
 
 She is identified as:
 
-- The aunt of Z-314-C (Charlie Dawnbringer)
-- The aunt of Z-314-S (Star Dawnbringer)
-- The aunt of Z-314-ST (Stitch Dawnbringer)
-- The stepmother of Z-314-CI (Cinder)
-
-Z-314-D is a highly advanced magic user with specialization in high-output Starladian arcane systems. Her capabilities place her among the upper echelon of known magical practitioners within Starlands.
+- **Aunt** of Z-314-C (Charlie), Z-314-S (Star), and Z-314-ST (Stitch)
+- **Stepmother** of Z-314-CI (Cinder)
 
 ---
 
-## **PHYSICAL CHARACTERISTICS**
+## **APPEARANCE**
 
-Z-314-D shares a near-identical physical build to Z-314-C (Charlie Dawnbringer), with the following primary distinction:
+Dusekkar shares a near-identical physical build to Z-314-C (Charlie), maintaining the standard Dawnbringer humanoid structure.
 
-- **Head:** Replaced by a bright blue jack-o’-lantern structure
+However, one feature immediately separates her from all others:
 
-The entity has confirmed that this condition is the result of a **magic-related incident**.
+> Her head is a **bright blue jack-o’-lantern**.
 
-No further details have been provided.
+The structure is fully integrated, functioning as a replacement rather than an accessory.
 
-Z-314-D has explicitly refused to elaborate on the nature, cause, or circumstances surrounding this transformation.
+According to Dusekkar:
 
----
+- The pumpkin head is the result of a **magical accident**
+- The original head is no longer present
 
-## **MAGICAL CAPABILITIES**
+Further details are **refused** upon questioning.
 
-Z-314-D demonstrates exceptional proficiency in Starladian magic, including:
-
-- High-level spellcasting
-- Large-scale magical manipulation
-- Advanced arcane constructs
-- Environmental and combat-grade magic
-- Multi-layer spell structuring and reinforcement
-
-Her capabilities are considered:
-
-> **Extreme-tier within Starladian magical classification**
-
-Observations indicate she is capable of utilizing magic at levels that may exceed standard Dawnbringer output under certain conditions.
+No successful attempts have been made to recover additional information.
 
 ---
 
-## **PREVIOUS AFFILIATION**
+## **BACKGROUND**
 
-Z-314-D was formerly a member of the:
+Dusekkar was formerly affiliated with the **Starladian Magic Commission**, an organization responsible for regulating magical practices within Starlands.
 
-> **Starladian Magic Commission**
+Her status changed following a major incident:
 
-This organization is believed to have governed, regulated, or otherwise controlled magical practices within Starlands.
+- She freed **Z-314-CI (Cinder)** from Commission control
+- This act resulted in immediate **exile**
+- A **hunt order** was issued against her
+
+Her original residence was subsequently destroyed.
+
+Current status: Residing within APRT-70 under N.O.S.T authorization.
 
 ---
 
-## **EXILE STATUS**
+## **CAPABILITIES**
 
-Z-314-D was formally:
+Dusekkar is classified as an **extremely high-level magic user**, even by Starladian standards.
 
-- Expelled from the Magic Commission
-- Declared a target for capture or elimination
-- Actively hunted following her actions
+Capabilities include:
 
-Reason for exile:
+- Advanced spellcasting across multiple disciplines
+- High-output magical manipulation
+- Complex enchantment and ritual work
+- Combat-capable magic deployment
 
-> **Unauthorized liberation of Z-314-CI (Cinder)**
+She is known for using **high-risk, high-output spells** that most entities cannot safely perform.
 
-Further details regarding the event remain undisclosed.
+Despite this, her control is precise.
+
+No accidental discharge has been recorded during observation.
+
+---
+
+## **BEHAVIOR**
+
+Dusekkar presents as:
+
+- Confident
+- Casual in tone
+- Slightly evasive when questioned about her past
+
+She is highly protective of:
+
+- Cinder
+- The Dawnbringer family as a whole
+
+Interaction with personnel is generally cooperative, though she maintains clear boundaries regarding restricted topics.
 
 ---
 
 ## **CURRENT STATUS**
 
-- **Affiliation:** Independent / Allied (Conditional)
-- **Location:** APRT-70 “Heaven’s Blacksite”
-- **Behavior:** Stable / Cooperative
-- **Threat Level:** Moderate → High (Conditional)
+- Fully integrated into Blacksite operations (non-staff)
+- Frequently assists with magical tasks when required
+- Resides alongside other Starlands entities
 
-Z-314-D has not demonstrated hostile intent toward N.O.S.T personnel.
-
----
-
-## **BEHAVIORAL PROFILE**
-
-- Calm and controlled demeanor
-- Highly composed under pressure
-- Protective toward Cinder
-- Willing to cooperate within structured environments
-
-However:
-
-- Displays strong independence
-- Avoids discussion of past affiliations
-- May react defensively if pressed on sensitive topics
-
----
-
-## **KNOWN RELATIONSHIP DYNAMICS**
-
-- Acts as a guardian and parental figure to Cinder
-- Familial connection to Dawnbringer line is confirmed and stable
-- Maintains a close but complex relationship with Charlie and Star
-
-Interactions within facility have been non-hostile and generally cooperative.
+She has shown no hostile intent toward Aperture personnel.
 
 ---
 
 ## **RISK ASSESSMENT**
 
-**Level:** Moderate → High
+**Level:** High (Controlled)
 
-Contributing factors:
+Reasoning:
 
-- High-tier magical capability
-- Unknown full extent of abilities
-- History of conflict with authoritative magical organization
-- Active status as a hunted individual (external threats possible)
+- Extremely powerful magic user
+- Unknown limits to capability
+- Past conflict with major Starlands authority (Magic Commission)
 
-Despite this, Z-314-D has shown no aggression toward N.O.S.T or facility personnel.
+However:
+
+- Cooperative behavior
+- Strong familial attachments
+- Stable personality
+
+Risk remains manageable under current conditions.
+
+---
+
+## **NOTES**
+
+Dusekkar avoids discussing:
+
+- The exact nature of her “accident”
+- Details regarding the Magic Commission incident
+- Full extent of her magical capabilities
+
+Pushing these topics is not recommended.
 
 ---
 
 ## **CONCLUSION**
 
-Z-314-D represents a powerful and experienced Starladian magic user with direct ties to the Dawnbringer lineage.
+Z-314-D is a high-value entity:
 
-Her past actions—particularly her decision to free Cinder—led to her exile and pursuit by the Starladian Magic Commission, indicating both her capability and her willingness to act against established authority when necessary.
+- Powerful
+- Experienced
+- Unpredictable only when pushed
 
-Currently, she operates as an allied but independent entity within APRT-70.
+She is not aligned with her past.
 
-Her refusal to disclose the origin of her transformation remains a notable unknown.
+She chose her side—
 
----
-
-## **FINAL NOTE**
-
-All attempts to investigate the nature of the “jack-o’-lantern” head transformation have been unsuccessful.
-
-The entity has stated:
-
-> “It’s not something I talk about.”
-
-Further inquiry is not advised without explicit authorization.
+and she’s staying on it.
 
 ---
 
 **Authored By:** Lucy AI — N.O.S.T Instance  
 **Approved By:** Director Lucious  
-**Archive Status:** ACTIVE / HIGH-PRIORITY MONITORING**
+**Archive Status:** ACTIVE**

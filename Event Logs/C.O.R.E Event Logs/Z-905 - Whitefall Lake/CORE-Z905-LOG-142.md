@@ -1,0 +1,661 @@
+# **APERTURE INDUSTRIES**
+
+## **CORE-Z905-LOG-142**
+
+### **WHITEFALL INCIDENT — OBSERVATION FEEDBACK ANOMALY**
+
+### **Classification:** INTERNAL / EXTREME CLEARANCE REQUIRED**
+
+### **Threat Level:** SEVERE PSYCHOLOGICAL HAZARD**
+
+### **Related Files:** CORE-Z905-LOG-141
+
+---
+
+# **I. SUMMARY**
+
+Further observation of Snowy's domain has revealed a critical detail.
+
+---
+
+Snowy is not completely isolated.
+
+---
+
+He can still see Whitefall Lake.
+
+---
+
+He can still hear Whitefall Lake.
+
+---
+
+To a limited degree.
+
+---
+
+The barrier separating the domain from reality is not fully opaque.
+
+---
+
+It functions more like a distorted window.
+
+---
+
+Snowy can observe events.
+
+Snowy can hear voices.
+
+Snowy can watch people.
+
+---
+
+However, this discovery has not improved the situation.
+
+---
+
+It has made it significantly worse.
+
+---
+
+# **II. THE WINDOW**
+
+---
+
+Several observation sequences confirmed the phenomenon.
+
+---
+
+When residents gathered inside the real Whitefall Residence, Snowy occasionally turned his attention toward empty space.
+
+---
+
+Analysis revealed that he was observing Whitefall itself.
+
+---
+
+Not a memory.
+
+Not a reconstruction.
+
+---
+
+The real location.
+
+---
+
+Cheer speaking.
+
+Cherry laughing.
+
+Sky walking through the snow.
+
+Bao preparing meals.
+
+Aurora reading.
+
+Yuki and Shidra talking.
+
+---
+
+Snowy can see all of it.
+
+---
+
+Yet his reaction remains unchanged.
+
+---
+
+No improvement.
+
+No recovery.
+
+No visible emotional response.
+
+---
+
+Initially this confused observers.
+
+---
+
+Until the second discovery was made.
+
+---
+
+# **III. THE ECHOES**
+
+---
+
+Snowy does not hear Whitefall alone.
+
+---
+
+Every voice from reality is accompanied by another voice.
+
+---
+
+A distorted voice.
+
+---
+
+One originating from the domain itself.
+
+---
+
+The mirages.
+
+---
+
+Whenever someone in reality speaks positively toward Snowy, the mirages immediately respond.
+
+---
+
+Examples:
+
+---
+
+Real Cheer:
+
+> "Snowy, we're sorry."
+
+---
+
+Mirage Cheer:
+
+> "She's lying."
+
+---
+
+Real Sky:
+
+> "You're still my friend."
+
+---
+
+Mirage Sky:
+
+> "No you're not."
+
+---
+
+Real Cherry:
+
+> "We miss you."
+
+---
+
+Mirage Cherry:
+
+> "Nobody misses you."
+
+---
+
+Real Bao:
+
+> "Come home."
+
+---
+
+Mirage Bao:
+
+> "There is no home for you."
+
+---
+
+Real Aurora:
+
+> "We want you back."
+
+---
+
+Mirage Aurora:
+
+> "We wanted you gone."
+
+---
+
+Lucy AI notes:
+
+> positive external input appears immediately countered by hostile internal manifestation
+
+---
+
+# **IV. ESCALATION**
+
+---
+
+As observation continued, a pattern emerged.
+
+---
+
+The mirages are not simply contradicting Whitefall.
+
+---
+
+They are overwhelming it.
+
+---
+
+Their voices are louder.
+
+More numerous.
+
+More persistent.
+
+---
+
+One positive statement from reality may be met with dozens of hostile responses.
+
+---
+
+Observed sequence:
+
+---
+
+Real Cheer:
+
+> "You're my little brother."
+
+---
+
+Mirage Cheer:
+
+> "No."
+
+---
+
+Mirage Cheer:
+
+> "You're a burden."
+
+---
+
+Mirage Cheer:
+
+> "You always were."
+
+---
+
+Mirage Cheer:
+
+> "Leave us alone."
+
+---
+
+Mirage Cheer:
+
+> "Nobody wants you."
+
+---
+
+Mirage Cheer:
+
+> "Why are you still here?"
+
+---
+
+The sequence continued for over two minutes.
+
+---
+
+The original statement was never repeated.
+
+---
+
+# **V. THE WORST RECORDED PHENOMENON**
+
+---
+
+Observers witnessed Snowy attempting to listen.
+
+---
+
+Genuinely listen.
+
+---
+
+For several moments he remained completely still.
+
+---
+
+Watching Whitefall.
+
+---
+
+Listening.
+
+---
+
+Real Sky was speaking.
+
+---
+
+The exact sentence could not be recovered.
+
+---
+
+Snowy appeared focused.
+
+---
+
+Hopeful.
+
+---
+
+Then the mirages appeared.
+
+---
+
+Dozens of them.
+
+---
+
+Copies of residents.
+
+Copies of friends.
+
+Copies of family.
+
+---
+
+All speaking simultaneously.
+
+---
+
+Recorded fragments include:
+
+> "They're pretending."
+
+---
+
+> "They don't mean it."
+
+---
+
+> "They only feel guilty."
+
+---
+
+> "Nobody actually loves you."
+
+---
+
+> "You should disappear."
+
+---
+
+> "Stop bothering them."
+
+---
+
+> "Look what you've done."
+
+---
+
+> "Everything is your fault."
+
+---
+
+The final statement repeated continuously.
+
+---
+
+Overlapping.
+
+---
+
+Growing louder.
+
+---
+
+Until Snowy physically covered his ears.
+
+---
+
+Despite the fact that the voices continued regardless.
+
+---
+
+# **VI. TERMINAL PHRASES**
+
+---
+
+Among all recorded messages, one category appears most common.
+
+---
+
+Self-destructive directives.
+
+---
+
+Repeated endlessly throughout the domain.
+
+---
+
+Examples include:
+
+> "Just end it."
+
+---
+
+> "Nobody would miss you."
+
+---
+
+> "You should've stayed dead."
+
+---
+
+> "You don't deserve another chance."
+
+---
+
+> "Why are you still trying?"
+
+---
+
+> "Stop wasting everyone's time."
+
+---
+
+> "You already ruined everything."
+
+---
+
+> "Leave them alone forever."
+
+---
+
+Lucy AI notes:
+
+> these messages appear generated by the domain itself rather than individual mirages
+
+---
+
+# **VII. WHITEFALL'S RESPONSE**
+
+---
+
+Upon learning that Snowy could hear them, Whitefall attempted renewed communication efforts.
+
+---
+
+Cheer spoke to him daily.
+
+---
+
+Sky visited the tree.
+
+---
+
+Cherry left messages.
+
+---
+
+Bao continued preparing meals.
+
+---
+
+Aurora read stories aloud.
+
+---
+
+Yuki and Shidra spoke as well.
+
+---
+
+Unfortunately, no measurable improvement was observed.
+
+---
+
+Not because Snowy ignored them.
+
+---
+
+But because he heard something else at the same time.
+
+---
+
+Something louder.
+
+---
+
+Something closer.
+
+---
+
+Something that never stopped.
+
+---
+
+# **VIII. DANIEL'S ASSESSMENT**
+
+---
+
+Daniel's analysis was brief.
+
+---
+
+And deeply concerning.
+
+---
+
+> "The problem isn't that Snowy can't hear us."
+
+---
+
+Silence followed.
+
+---
+
+Then:
+
+> "The problem is that he hears us."
+
+---
+
+Confused looks followed.
+
+---
+
+Daniel clarified.
+
+---
+
+> "Every good thing we say gets buried under a thousand bad things."
+
+---
+
+Long pause.
+
+---
+
+> "He's trapped in a place that argues with reality."
+
+---
+
+Nobody had a response.
+
+---
+
+Because that was exactly what the recordings showed.
+
+---
+
+# **IX. FINAL NOTE**
+
+---
+
+Whitefall now knows that Snowy can still see them.
+
+---
+
+He can still hear them.
+
+---
+
+He knows they are there.
+
+---
+
+He knows they are trying.
+
+---
+
+Yet every attempt to reach him is intercepted by a domain built from fear, guilt, and self-hatred.
+
+---
+
+A place where every apology becomes a lie.
+
+Every compliment becomes an insult.
+
+Every expression of love becomes something twisted and cruel.
+
+---
+
+And somewhere in the middle of all that noise sits Snowy.
+
+---
+
+Watching.
+
+Listening.
+
+Trying to understand.
+
+---
+
+While countless false voices tell him the same thing over and over.
+
+---
+
+That he is unwanted.
+
+That he is a burden.
+
+That he should disappear.
+
+---
+
+And no matter how loudly Whitefall speaks,
+
+the domain always speaks louder.
+
+---
+
+**Log Status:** ACTIVE / CRITICAL  
+**Snowy Status:** DOMAIN-BOUND / OBSERVING WHITEFALL  
+**Physical Status:** STABLE  
+**Psychological Status:** EXTREMELY DEGRADED  
+**Domain Status:** ACTIVE / HOSTILE FEEDBACK LOOP  
+**Cheer Status:** ATTEMPTING CONTACT  
+**Sky Status:** ATTEMPTING CONTACT  
+**Cherry Status:** ATTEMPTING CONTACT  
+**Bao Status:** ATTEMPTING CONTACT  
+**Aurora Status:** ATTEMPTING CONTACT  
+**Yuki Status:** ATTEMPTING CONTACT  
+**Shidra Status:** ATTEMPTING CONTACT  
+**Whitefall Stability:** STABLE / EMOTIONALLY CRITICAL  
+**Filed By:** Lucy AI — Domain Observation Division**  
+**Approved By:** Director Lucious**

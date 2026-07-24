@@ -1,209 +1,216 @@
+## **APERTURE INDUSTRIES**
 
-
-**APERTURE INDUSTRIES  
-C.O.R.E INFRASTRUCTURE DOSSIER — INTERNAL DEFENSE SYSTEM (IDS)  
-Classification: Internal / Level 4 Clearance Required
-
----
-
-I. SYSTEM DESIGNATION
-
-System Name: Internal Defense System (IDS)  
-System Type: Automated Lethal Security Network  
-Control Authority: Lucy AI — C.O.R.E Oversight
+**C.O.R.E INFRASTRUCTURE DOSSIER — INTERNAL DEFENSE SYSTEM (IDS)**  
+**Classification: Internal / Level 4 Clearance Required**
 
 ---
 
-II. OVERVIEW
+### **SYSTEM DESIGNATION**
 
-The Internal Defense System (IDS) is a distributed network of mounted automated turrets installed throughout C.O.R.E Blacksite facilities. The system functions as a secondary enforcement and containment safeguard, optimized for rapid engagement against unauthorized biological entities.
-
-IDS units are positioned along ceilings and walls to maximize coverage, eliminate blind spots, and maintain constant surveillance across high-risk zones.
-
----
-
-III. CORE COMPONENTS
-
-Each IDS turret unit is equipped with:
-
-- Laser Targeting Module — Precision acquisition and tracking  
-      
-    
-- Integrated Body Scanner — Identification and whitelist verification  
-      
-    
-- Directional Spotlight — Target illumination and intimidation function  
-      
-    
-- Automated Reload Mechanism — High-speed magazine replacement system  
-      
-    
-
-All units are network-synchronized and centrally coordinated by Lucy AI.
+**System Name:** Internal Defense System (IDS)  
+**System Type:** Automated Multi-Layer Lethal Security Network  
+**Control Authority:** Lucy AI — C.O.R.E Oversight
 
 ---
 
-IV. TARGETING PROTOCOLS
+## **I. OVERVIEW**
 
-Authorized Non-Targets (Whitelist):
+The Internal Defense System (IDS) is a distributed, fully automated security network deployed across C.O.R.E Blacksite facilities.
 
-- Aperture Industries Personnel  
-      
-    
-- MR-P Units  
-      
-    
-- LR-P Units  
-      
-    
+It is designed to enforce **absolute internal control of facility space**, eliminating unauthorized access, containment breaches, and hostile anomalous activity through layered escalation systems.
 
-Whitelisted entities are automatically recognized and excluded from engagement.
-
-Notice:  
-MR-P and LR-P units are not informed of their whitelist status. This omission is intentional and maintained as a behavioral compliance mechanism.
-
-Valid Targets:
-
-- Unauthorized human presence  
-      
-    
-- Unregistered biological entities  
-      
-    
-- Hostile anomalous organisms  
-      
-    
+IDS operates continuously with no required human intervention.
 
 ---
 
-V. ARMAMENT SPECIFICATIONS
+## **II. CORE ARCHITECTURE**
 
-Ammunition Type: 5.56x45 SS (Small Stud)  
-Magazine Capacity: 70 Rounds per Unit
+IDS is structured as a **modular turret-based lattice network**, integrated into:
 
-Firing Behavior:
+- Walls
+- Ceilings
+- Structural choke points
+- Facility entry zones
+- Emergency corridors
 
-- Controlled burst pattern: 14 rounds per burst  
-      
-    
-- Continuous re-engagement until target neutralization  
-      
-    
-
-Damage Output:  
-Capable of causing catastrophic structural and biological damage.
+All units are synchronized via **Lucy AI C.O.R.E coordination layer**.
 
 ---
 
-VI. RELOAD CYCLE
+## **III. STANDARD SYSTEM FUNCTIONS**
 
-Upon magazine depletion:
+All IDS units share baseline systems:
 
-1. Turret retracts into armored housing  
-      
-    
-2. Expended magazine is discarded  
-      
-    
-3. New magazine is loaded automatically  
-      
-    
-
-Reload Time: < 5 seconds
-
-System resumes engagement immediately after reload completion.
+- Real-time target acquisition
+- Biometric + anomaly classification scanning
+- Networked threat prioritization
+- Multi-angle engagement coordination
+- Autonomous reload cycles
+- Adaptive firing pattern adjustment
 
 ---
 
-VII. DISTRIBUTION & DEPLOYMENT
+## **IV. TARGETING PROTOCOLS**
 
-- Units are placed in non-patterned, unpredictable configurations  
-      
-    
-- Coverage prioritizes:  
-      
-    
+### **Authorized Non-Targets (Whitelist)**
 
-- Corridors  
-      
-    
-- Containment access points  
-      
-    
-- Security choke zones  
-      
-    
+- Aperture Industries Personnel
+- MR-P Units
+- LR-P Units
 
-Purpose: Prevent environmental familiarity and eliminate evasion through memorization.
+> Note: MR-P / LR-P units remain unaware of whitelist status by design.
 
 ---
 
-VIII. OVERRIDE & FAILURE POINTS
+### **Valid Targets**
 
-Certain IDS zones are linked to unmarked Breaker Boxes.
+- Unauthorized personnel
+- Hostile entities
+- Unregistered anomalous lifeforms
+- System breach actors
+
+---
+
+## **V. STANDARD IDS VARIANTS**
+
+---
+
+### **1. Suppressed Variant**
+
+- Weapon Type: G3 rifle platform
+- Modification: Integrated suppressor system
+- Role: Silent elimination / low-alert engagement
+- Function: Reduced detection footprint, precision suppression fire
+
+---
+
+### **2. Shocker Variant**
+
+- Weapon Type: 12x556SS Zephyr-tipped rounds
+- Effect: Electrical discharge on impact
+- Specialization: Enhanced effectiveness against anomalous entities
+- Role: Anti-entity disruption and system destabilization
+
+---
+
+### **3. Shredder Variant**
+
+- Weapon Type: 12-gauge automated buckshot system
+- Magazine Capacity: 150 rounds
+- Function: High-density close-to-mid range suppression
+- Role: Corridor denial and room clearance
+
+---
+
+### **4. Hydra Variant**
+
+- Weapon Type: Ice-accelerated ballistic system
+- Ammunition: Cryo-stabilized rounds
+- Effect: Rapid thermal suppression and target immobilization
+- Role: Movement restriction and area freezing control
+
+---
+
+### **5. Sharpshooter Variant**
+
+- Weapon Type: .50 caliber precision rifle system
+- Targeting System: Autonomous trajectory correction (“aim assist lock”)
+- Function: High-precision elimination of priority targets
+- Role: Long-range suppression of high-value threats
+
+---
+
+### **6. Devastator Variant**
+
+- Weapon Type: M134 rotary minigun platform
+- Ammunition Supply: 50,000-round integrated feed system
+- Cooling System: Liquid nitrogen thermal stabilization
+- Deployment Location: Primary Blacksite lobby
 
 Function:
 
-- Immediate shutdown of connected turret clusters  
-      
-    
+- Continuous area suppression
+- Mass engagement denial
+- Entry point containment enforcement
 
-Status:
-
-- Locations intentionally obscured  
-      
-    
-- Access restricted and secured  
-      
-    
-
-Unauthorized interaction with breaker systems is considered a Level 4 security violation.
+> Classified as a **permanent-zone control asset**
 
 ---
 
-IX. FAILURE PROTOCOLS
+## **VI. SYSTEM DEPLOYMENT LOGIC**
 
-In the event of IDS malfunction or system compromise:
+IDS units are deployed in **non-repeating spatial patterns** to prevent:
 
-- Personnel are instructed to avoid turret-active zones  
-      
-    
-- If traversal is unavoidable:  
-      
-    
+- Predictable traversal
+- Memorized safe routes
+- Corridor exploitation
 
-- Utilize available environmental cover  
-      
-    
-- Minimize exposure duration  
-      
-    
+Coverage prioritizes:
 
-Approved Emergency Cover:
-
-- Standard Blacksite lockers (ballistic-resistant)  
-      
-    
-
-Lockers are rated to withstand sustained IDS fire and may be used as temporary shelter until system control is restored.
+- Entry points
+- Intersection corridors
+- Vertical transitions (stairs / lifts)
+- High-risk containment access zones
 
 ---
 
-X. OPERATIONAL DOCTRINE
+## **VII. BEHAVIORAL ENFORCEMENT MODEL**
 
-- IDS operates under zero-warning lethal enforcement  
-      
-    
-- Engagement decisions are executed without human intervention  
-      
-    
-- System priority is threat elimination over asset preservation  
-      
-    
+IDS does not operate defensively.
+
+It operates **correctively**.
+
+- Movement is treated as a trigger condition
+- Unauthorized presence is treated as active hostility
+- Survival windows are not guaranteed by design
 
 ---
 
-XI. STATUS
+## **VIII. OVERRIDE SYSTEMS**
+
+Certain IDS clusters are linked to **Breaker Nodes**:
+
+- Hidden shutdown interfaces
+- Location data intentionally obfuscated
+- Access restricted to Level 4+ clearance
+
+Tampering triggers:
+
+> Immediate escalation of surrounding IDS units
+
+---
+
+## **IX. EMERGENCY PROTOCOLS**
+
+In the event of IDS compromise:
+
+- Personnel must avoid open corridors
+- Lockdown sheltering is permitted in reinforced structures
+- Standard Blacksite lockers are rated for temporary ballistic shielding
+- Movement should be minimized to prevent detection cycles
+
+---
+
+## **X. FAILURE CONDITION BEHAVIOR**
+
+If IDS network integrity drops:
+
+- System escalates to autonomous saturation mode
+- Engagement density increases per affected zone
+- Target prioritization shifts to containment reestablishment
+
+---
+
+## **XI. OPERATIONAL DOCTRINE**
+
+- No warning engagement
+- No negotiation protocol
+- No escalation delay
+- Continuous threat elimination cycle
+
+---
+
+## **XII. STATUS**
 
 System Status: ACTIVE  
 Network Integrity: STABLE  
@@ -211,11 +218,15 @@ Control Link (Lucy AI): SYNCHRONIZED
 
 ---
 
-XII. APPROVAL
+## **XIII. FINAL NOTE**
 
-Authorized By: Director Lucious  
-Recorded By: Lucy AI — C.O.R.E Documentation Unit  
-Directive Status: ACTIVE
+The Internal Defense System is not designed to stop intruders.
 
-  
-**
+It is designed to ensure:
+
+> **entry and exit are no longer meaningful concepts inside the Blacksite**
+
+---
+
+**Authorized By:** Director Lucious  
+**Recorded By:** Lucy AI — C.O.R.E Documentation Unit

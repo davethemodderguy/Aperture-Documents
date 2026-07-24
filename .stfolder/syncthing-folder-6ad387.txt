@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: aperture-industries-archive
+created: 2026-04-07T17:12:23+07:00
