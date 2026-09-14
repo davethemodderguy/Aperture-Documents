@@ -59,7 +59,7 @@ Looked at the cafeteria worker.
 Then back at the tray.
 
 > **BAO:**  
-> “Is that xôi?”
+> “Is that Sticky Rice?”
 
 The cafeteria worker confirmed that it was.
 
@@ -171,7 +171,7 @@ She looked at the bowl.
 Bao answered:
 
 > **BAO:**  
-> “Xôi.”
+> “Sticky Rice”
 
 Frost looked at Neri.
 
